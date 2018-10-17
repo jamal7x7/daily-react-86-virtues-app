@@ -1,6 +1,6 @@
 ## Daily-react-86-virtues-app
 
-> Challenge: create a Battleship Game.
+> Challenge: create a Benjamin Franklin's 13 Virtues App.
 
 Work in progress: https://github.com/jamal7x7/daily-react-86-virtues-app
 
